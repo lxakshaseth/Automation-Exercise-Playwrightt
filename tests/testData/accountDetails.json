@@ -1,0 +1,15 @@
+{
+    "firstName": "Max",
+    "lastName": "Visintainer",
+    "day": "1",
+    "month": "1",
+    "year": "1997",
+    "company": "Test Company",
+    "address1": "1134 Columbia Road",
+    "address2": "Most",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Dallas",
+    "zipcode": "98607",
+    "mobileNumber": "11111111"
+  }
