@@ -1,5 +1,7 @@
 # Automation Exercise Playwright
 
+Repository: [Automation-Exercise-Playwrightt](https://github.com/lxakshaseth/Automation-Exercise-Playwrightt)
+
 End-to-end browser tests for [Automation Exercise](https://automationexercise.com/) built with **Playwright** and **JavaScript**. The project uses reusable page objects and JSON fixtures to exercise common account and contact workflows.
 
 ## Test coverage
@@ -17,8 +19,8 @@ The configuration includes **Chromium, Firefox, and WebKit**, HTML reports, and 
 Install Node.js with npm and Git, then run:
 
 ```sh
-git clone https://github.com/lxakshaseth/automation-exercise-playwright.git
-cd automation-exercise-playwright
+git clone https://github.com/lxakshaseth/Automation-Exercise-Playwrightt.git
+cd Automation-Exercise-Playwrightt
 npm ci
 npx playwright install
 ```
